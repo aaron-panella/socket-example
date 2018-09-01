@@ -1,0 +1,3 @@
+/home/aaron/Desktop/socket-example/client/build/CMakeFiles/rebuild_cache.dir
+/home/aaron/Desktop/socket-example/client/build/CMakeFiles/edit_cache.dir
+/home/aaron/Desktop/socket-example/client/build/CMakeFiles/client.dir
